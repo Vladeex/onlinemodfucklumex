@@ -11877,7 +11877,7 @@
       search: false,
       kp: false,
       imdb: true,
-      disabled: false
+      disabled: true
     }, {
       name: 'lumex2',
       title: 'Lumex',
@@ -11885,7 +11885,7 @@
       search: false,
       kp: false,
       imdb: true,
-      disabled: this.isDebug3()
+      disabled: false
     }, {
       name: 'rezka2',
       title: 'HDrezka',
